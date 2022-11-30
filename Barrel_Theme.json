@@ -4,8 +4,7 @@
     "name": "Barrel Theme",
     "transparency_mode": 3,
     "author": "Faz#0690",
-    "license": "v.0.1.0",
-    "updater": "https://raw.githubusercontent.com/JoseEncode/barrel-theme/main/Barrel_Theme.json"
+    "license": "v.0.1.0"
   },
   "background": {
     "url": "https://media.discordapp.net/attachments/1011024269997781134/1046031817737781308/1669463796938.jpg",
