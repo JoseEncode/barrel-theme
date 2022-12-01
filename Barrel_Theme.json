@@ -1,31 +1,34 @@
 {
-  "manifest": {
-    "version": "0.0.1",
-    "name": "Barrel Theme",
-    "transparency_mode": 3,
-    "author": "Faz#0690",
-    "license": "v.0.1.0"
-  },
-  "background": {
-    "url": "https://media.discordapp.net/attachments/1011024269997781134/1046031817737781308/1669463796938.jpg",
-    "overlay_alpha": 100,
-    "blur_radius": 2
-  },
-  "simple_colors": {
-    "blocked_bg": 1692964369,
-    "accent": -412109,
-    "mention_highlight": 1961399825,
-    "input_background": 1627384517,
-    "active_channel": 1357420049,
-    "background_secondary": 687860422,
-    "statusbar": 1979706054
-  },
-  "colors": {
-    "abc_primary_text_disable_only_material_dark": -5435,
-    "abc_primary_text_material_dark": -5435,
-    "primary_text_default_material_dark": -5435,
-    "secondary_text_default_material_dark": -1276602863,
-    "auth_dark": 1207954117
-  },
-  "drawable_tints": {}
+    "manifest": {
+        "version": "0.0.1",
+        "name": "Barrel Theme",
+        "transparency_mode": 3,
+        "author": "Faz#0690",
+        "license": "v.0.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/JoseEncode\/barrel-theme\/main\/Barrel_Theme.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/1011024269997781134\/1046031817737781308\/1669463796938.jpg",
+        "overlay_alpha": 100,
+        "blur_radius": 2
+    },
+    "simple_colors": {
+        "blocked_bg": 1692964369,
+        "accent": -412109,
+        "mention_highlight": 1961399825,
+        "input_background": 1627384517,
+        "active_channel": 1357420049,
+        "background_secondary": 687860422,
+        "statusbar": 1979706054
+    },
+    "colors": {
+        "abc_primary_text_disable_only_material_dark": -5435,
+        "abc_primary_text_material_dark": -5435,
+        "primary_text_default_material_dark": -5435,
+        "secondary_text_default_material_dark": -1276602863,
+        "auth_dark": 1207954117
+    },
+    "drawable_tints": {},
+    "fonts": {},
+    "raws": {}
 }
